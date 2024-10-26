@@ -29,3 +29,5 @@ Enter a city name in the search box and click the search button to view the weat
 Conclusion
 This project has been a valuable learning experience, allowing me to revisit and strengthen my web development skills. I look forward to building more projects to further enhance my knowledge and confidence in this field.
 
+Live Preview https://my-weather-app-sid.netlify.app/
+
